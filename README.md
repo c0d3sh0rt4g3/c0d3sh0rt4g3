@@ -1,6 +1,6 @@
 ## Erik López Jiménez 😼
 
-**`Fullstack Junior Web Developer`**
+**`Junior Fullstack Web Developer`**
 
 I am a web developer looking to grow professionally while continuing to learn and improve at the same time. I also consider myself someone who works well in a team and is able to tackle new challenges.
 
