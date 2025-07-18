@@ -66,6 +66,8 @@ I am a web developer looking to grow professionally while continuing to learn an
   - _A recipes page._
   - [Repository](https://github.com/c0d3sh0rt4g3/project2)
 
+---
+
 ### 📊 GitHub Stats
 
 ![c0d3sh0rt4g3's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0d3sh0rt4g3&show_icons=true&theme=radical)
