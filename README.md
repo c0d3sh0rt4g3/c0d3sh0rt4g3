@@ -9,7 +9,7 @@ I am a web developer looking to grow professionally while continuing to learn an
 ### 🗣️ Languages & Certificates
 
 - Native Spanish speaker
-- English: Cambridge B2 Certificate (currently studying for C1)
+- English: Cambridge B2 Certificate (currently waiting for C1 results)
 
 ---
 
@@ -48,23 +48,23 @@ I am a web developer looking to grow professionally while continuing to learn an
 ### 🚀 Featured Projects
 
 - **Filmsage**
+  - _A film review platform that uses AI to make recommendations based on past reviews._
   - [Frontend (Vue.js)](https://github.com/c0d3sh0rt4g3/FilmSage-Frontend)
   - [Backend (Node.js/Express/MongoDB)](https://github.com/c0d3sh0rt4g3/FilmSage-Backend)
-  - _A film review platform that uses AI to make recommendations based on past reviews._
-
+  
 - **Clinimood**
+  - _A medical appointment page with a modern and refreshing interface._
   - [Frontend (React)](https://github.com/c0d3sh0rt4g3/Clinimood-MERN-frontend)
   - [Backend (Node.js/Express/MongoDB)](https://github.com/c0d3sh0rt4g3/Clinimood-MERN-backend)
-  - _A medical appointment page with a modern and refreshing interface._
 
 - **EatMatch**
+  - _A restaurant review platform._
   - [Frontend (Vue.js)](https://github.com/c0d3sh0rt4g3/EatMatch-Frontend)
   - [Backend (Laravel)](https://github.com/c0d3sh0rt4g3/EatMatch-Backend)
-  - _A restaurant review platform._
 
 - **Growl**
-  - [Repository](https://github.com/c0d3sh0rt4g3/project2)
   - _A recipes page._
+  - [Repository](https://github.com/c0d3sh0rt4g3/project2)
 
 ### 📊 GitHub Stats
 
