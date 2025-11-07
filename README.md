@@ -9,7 +9,7 @@ I am a web developer looking to grow professionally while continuing to learn an
 ### 🗣️ Languages & Certificates
 
 - Native Spanish speaker
-- English: Cambridge B2 Certificate (currently waiting for C1 results)
+- English: Cambridge C1 Certificate
 
 ---
 
