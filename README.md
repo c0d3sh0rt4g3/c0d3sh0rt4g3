@@ -32,6 +32,8 @@ I am a web developer looking to grow professionally while continuing to learn an
 
 ### 📚 Currently Learning
 
+Currently I'm studying a masters degree on **cybersecurity**, appart from that, I'm also learning the following technologies:
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
