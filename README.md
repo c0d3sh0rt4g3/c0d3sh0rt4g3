@@ -70,12 +70,6 @@ Currently I'm studying a masters degree on **cybersecurity**, appart from that, 
 
 ---
 
-### 📊 GitHub Stats
-
-![c0d3sh0rt4g3's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0d3sh0rt4g3&show_icons=true&theme=radical)
-
----
-
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/erik-lópez-jiménez-381a52258/)
